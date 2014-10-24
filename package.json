@@ -1,0 +1,23 @@
+{
+  "name": "Wits",
+  "version": "0.0.0",
+  "description": "Versed-Backend ==============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nlkluth@github.com/Versed/Wits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Versed/Wits/issues"
+  },
+  "homepage": "https://github.com/Versed/Wits",
+  "dependencies": {
+    "express": "^4.10.0",
+    "lodash": "^2.4.1"
+  }
+}
